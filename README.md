@@ -1,3 +1,3 @@
 ประกอบไปด้วยสองเเบบทดสอบ คือ
-  Programmer test1 มี 1 ข้อ 
+  Programmer test1 มี 1 ข้อ โดยได้ถูกบีบอัดให้อยู่ในนามสกุล .rar
   Programmer test2 มี 17 ข้อ
